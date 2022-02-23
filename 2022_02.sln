@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针进阶", "2022_02\202
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业", "作业\作业.vcxproj", "{DA316211-F090-49F5-A31E-DC9C8091861B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数指针", "函数指针\函数指针.vcxproj", "{5752B865-C836-4B4F-930E-8380935038E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{DA316211-F090-49F5-A31E-DC9C8091861B}.Release|x64.Build.0 = Release|x64
 		{DA316211-F090-49F5-A31E-DC9C8091861B}.Release|x86.ActiveCfg = Release|Win32
 		{DA316211-F090-49F5-A31E-DC9C8091861B}.Release|x86.Build.0 = Release|Win32
+		{5752B865-C836-4B4F-930E-8380935038E9}.Debug|x64.ActiveCfg = Debug|x64
+		{5752B865-C836-4B4F-930E-8380935038E9}.Debug|x64.Build.0 = Debug|x64
+		{5752B865-C836-4B4F-930E-8380935038E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{5752B865-C836-4B4F-930E-8380935038E9}.Debug|x86.Build.0 = Debug|Win32
+		{5752B865-C836-4B4F-930E-8380935038E9}.Release|x64.ActiveCfg = Release|x64
+		{5752B865-C836-4B4F-930E-8380935038E9}.Release|x64.Build.0 = Release|x64
+		{5752B865-C836-4B4F-930E-8380935038E9}.Release|x86.ActiveCfg = Release|Win32
+		{5752B865-C836-4B4F-930E-8380935038E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
