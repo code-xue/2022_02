@@ -32,6 +32,7 @@ void Swap(char* buf1, char* buf2, int width)
 	}
 }
 
+//ÅÅÐòº¯Êý
 void bubble_sort(void* base, int sz, int width, int (*cmp)(const void* e1, const void* e2))
 {
 	int i = 0;
