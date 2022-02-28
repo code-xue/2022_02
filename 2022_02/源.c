@@ -163,3 +163,9 @@
 //	return 0;
 //}
 
+int main()
+{
+	int a = 0;
+	printf("%d\n", sizeof a);
+	return 9;
+}
